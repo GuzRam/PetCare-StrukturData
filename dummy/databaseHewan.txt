@@ -1,0 +1,24 @@
+Jenis  : aga
+Nama : Draco
+Umur : 00 Tahun
+Pelayanan : afasnya BAu
+Jenis  : api
+Nama : Cowis
+Umur :  Tahun
+Pelayanan : ir Susunya Rasa Coklat
+Jenis  : Sapi
+Nama : riau
+Umur : 2 tahun
+Pelayanan : mati
+Jenis  : ikan
+Nama : mujair
+Umur : 3 bulan
+Pelayanan : mati juga
+Jenis  : naga
+Nama : sapi
+Umur : 30 tahun
+Pelayanan : mati sekarat
+Jenis  : ikan sapi
+Nama : mas
+Umur : 6 bulan
+Pelayanan : mati jatuh cinta

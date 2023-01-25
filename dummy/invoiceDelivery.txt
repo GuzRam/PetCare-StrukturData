@@ -1,0 +1,19 @@
+==================================
+           HALLO  beta!    
+==================================
+ ========INVOICE DELIVERY========
+Makanan         : 
+ Monoprotein Turkey With Rice & Potato 
+ Duck With Salmon 
+ Pork With Rice 
+ Monoprotein Turkey With Rice & Potato 
+ Rich In Chicken 
+Alamat          : jln.jalan
+Ongkir          : 10500
+Kembalian       : 195000
+Diskon          : 7500
+Harga           : 305000
+Total           : 308000
+ ==========TERIMA KASIH========== 
+==================================
+

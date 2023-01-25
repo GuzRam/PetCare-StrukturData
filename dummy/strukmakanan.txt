@@ -1,0 +1,17 @@
+==================================
+           HALLO  pukis!    
+==================================
+       ========STRUK========
+Makanan         : 
+                 Kitten Ocean Fish 
+                 For Persian 
+                 Gournament 
+                 Seafood 
+                 Salmon 
+                 Beef 
+Uang Yang Dibayarkan  :500000
+Harga                 : 410000
+Kembalian             : 90000
+ ==========TERIMA KASIH========== 
+==================================
+

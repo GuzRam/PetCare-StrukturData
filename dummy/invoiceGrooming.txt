@@ -1,0 +1,10 @@
+-========================================-
+========INVOICE GROOMING KUCING========
+Nama Hewan Peliharaan : baim
+Umur Hewan Peliharaan : 12 bulan
+Harga Grooming        : 150000
+Jumlah Bayar          : 250000
+Kembalian             : 100000
+===============TERIMAKASIH=============
+-========================================-
+
